@@ -1,2 +1,2 @@
-### Curriculum Vitae em HTML5 e Javascript
+### Curriculum Vitae em HTML5 e CSS
 - 
